@@ -1,0 +1,14 @@
+{
+  "name": "countingsheeps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "Javier Martinez",
+  "devDependencies": {
+    "vitest": "^2.0.4"
+  }
+}
